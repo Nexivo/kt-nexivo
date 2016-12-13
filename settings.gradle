@@ -1,2 +1,25 @@
 rootProject.name = 'kt-nexivo'
 
+include ':kt-eventify'
+project(':kt-eventify').projectDir = new File(settingsDir, 'kt-eventify')
+
+include ':kt-ez-client'
+project(':kt-ez-client').projectDir = new File(settingsDir, 'kt-ez-client')
+
+include ':kt-ez-server'
+project(':kt-ez-server').projectDir = new File(settingsDir, 'kt-ez-server')
+
+include ':kt-reggie'
+project(':kt-reggie').projectDir = new File(settingsDir, 'kt-reggie')
+
+include ':kt-specifics'
+project(':kt-specifics').projectDir = new File(settingsDir, 'kt-specifics')
+
+include ':kt-stately'
+project(':kt-stately').projectDir = new File(settingsDir, 'kt-stately')
+
+include ':kt-toolbox'
+project(':kt-toolbox').projectDir = new File(settingsDir, 'kt-toolbox')
+
+include ':kt-vinyl'
+project(':kt-vinyl').projectDir = new File(settingsDir, 'kt-vinyl')

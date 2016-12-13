@@ -1,0 +1,24 @@
+[submodule "kt-specifics"]
+	path = kt-specifics
+	url = https://github.com/Nexivo/kt-specifics.git
+[submodule "kt-toolbox"]
+	path = kt-toolbox
+	url = https://github.com/Nexivo/kt-toolbox.git
+[submodule "kt-eventify"]
+	path = kt-eventify
+	url = https://github.com/Nexivo/kt-eventify.git
+[submodule "kt-stately"]
+	path = kt-stately
+	url = https://github.com/Nexivo/kt-stately.git
+[submodule "kt-ez-client"]
+	path = kt-ez-client
+	url = https://github.com/Nexivo/kt-ez-client.git
+[submodule "kt-ez-server"]
+	path = kt-ez-server
+	url = https://github.com/Nexivo/kt-ez-server.git
+[submodule "kt-reggie"]
+	path = kt-reggie
+	url = https://github.com/Nexivo/kt-reggie.git
+[submodule "kt-vinyl"]
+	path = kt-vinyl
+	url = https://github.com/Nexivo/kt-vinyl.git
