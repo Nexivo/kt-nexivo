@@ -16,9 +16,6 @@
 [submodule "kt-vinyl"]
 	path = kt-vinyl
 	url = https://github.com/Nexivo/kt-vinyl.git
-[submodule "kt-net-server"]
-	path = kt-net-server
-	url = https://github.com/Nexivo/kt-net-server.git
-[submodule "kt-net-client"]
-	path = kt-net-client
-	url = https://github.com/Nexivo/kt-net-client.git
+[submodule "kt-netter"]
+	path = kt-netter
+	url = https://github.com/Nexivo/kt-netter.git
