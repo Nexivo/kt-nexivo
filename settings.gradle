@@ -3,11 +3,8 @@ rootProject.name = 'kt-nexivo'
 include ':kt-eventify'
 project(':kt-eventify').projectDir = new File(settingsDir, 'kt-eventify')
 
-include ':kt-net-client'
-project(':kt-net-client').projectDir = new File(settingsDir, 'kt-net-client')
-
-include ':kt-net-server'
-project(':kt-net-server').projectDir = new File(settingsDir, 'kt-net-server')
+include ':kt-netter'
+project(':kt-netter').projectDir = new File(settingsDir, 'kt-netter')
 
 include ':kt-reggie'
 project(':kt-reggie').projectDir = new File(settingsDir, 'kt-reggie')
