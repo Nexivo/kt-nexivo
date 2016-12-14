@@ -10,15 +10,15 @@
 [submodule "kt-stately"]
 	path = kt-stately
 	url = https://github.com/Nexivo/kt-stately.git
-[submodule "kt-ez-client"]
-	path = kt-ez-client
-	url = https://github.com/Nexivo/kt-ez-client.git
-[submodule "kt-ez-server"]
-	path = kt-ez-server
-	url = https://github.com/Nexivo/kt-ez-server.git
 [submodule "kt-reggie"]
 	path = kt-reggie
 	url = https://github.com/Nexivo/kt-reggie.git
 [submodule "kt-vinyl"]
 	path = kt-vinyl
 	url = https://github.com/Nexivo/kt-vinyl.git
+[submodule "kt-net-server"]
+	path = kt-net-server
+	url = https://github.com/Nexivo/kt-net-server.git
+[submodule "kt-net-client"]
+	path = kt-net-client
+	url = https://github.com/Nexivo/kt-net-client.git
